@@ -20,7 +20,7 @@ To get a local copy of the project up and running, follow these steps:
 2. Navigate to the project's directory: cd order-summary-component-main
 3. Open the index.html file in your preferred web browser
 ## Preview
-You can preview the order summary component by visiting the [live demo](https://choosealicense.com/licenses/mit/).
+You can preview the order summary component by visiting the [live demo](https://mahmoud12501.github.io/order-summary-component-main/).
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
